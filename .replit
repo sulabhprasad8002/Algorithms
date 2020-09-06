@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 'Merge Sort'"
+run = "python3 'quick-sort.py'"
